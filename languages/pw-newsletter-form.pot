@@ -1,0 +1,58 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PW Newsletter Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-30 14:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.2; php-8.3.0\n"
+"X-Domain: pw-newsletter-form"
+
+#: build/form/render.php:20 src/form/render.php:20
+msgid "Don't check this box, it's for robot"
+msgstr ""
+
+#: build/form/render.php:15 build/form/render.php:16 src/form/render.php:15
+#: src/form/render.php:16
+msgid "Email"
+msgstr ""
+
+#: build/form/render.php:4 src/form/render.php:4
+msgid "email_address_exist"
+msgstr ""
+
+#: build/form/render.php:3 src/form/render.php:3
+msgid "email_address_saved"
+msgstr ""
+
+#: build/form/render.php:5 src/form/render.php:5
+msgid "error_status"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wp-performance.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Newsletter form plugin connected to Brevo"
+msgstr ""
+
+#. Author of the plugin
+msgid "Patrick Faramaz"
+msgstr ""
+
+#. Name of the plugin
+msgid "PW Newsletter Form"
+msgstr ""
+
+#: build/form/render.php:30 src/form/render.php:30
+msgid "send_email_address"
+msgstr ""

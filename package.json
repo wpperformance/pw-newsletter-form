@@ -1,0 +1,16 @@
+{
+  "name": "pw-newsletter-form",
+  "scripts": {
+    "build": "wp-scripts build --blocks-manifest --webpack-copy-php --experimental-modules",
+    "format": "wp-scripts format",
+    "lint:css": "wp-scripts lint-style",
+    "lint:js": "wp-scripts lint-js",
+    "packages-update": "wp-scripts packages-update",
+    "plugin-zip": "wp-scripts plugin-zip",
+    "start": "wp-scripts start --webpack-copy-php --blocks-manifest --webpack-copy-php --experimental-modules"
+  },
+  "devDependencies": {
+    "@wordpress/interactivity": "^6.27.0",
+    "@wordpress/scripts": "^30.20.0"
+  }
+}

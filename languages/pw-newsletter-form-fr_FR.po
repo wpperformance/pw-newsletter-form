@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PW Newsletter Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-30 14:14+0000\n"
+"PO-Revision-Date: 2025-07-30 14:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.2; php-8.3.0\n"
+"X-Domain: pw-newsletter-form"
+
+#: build/form/render.php:20 src/form/render.php:20
+msgid "Don't check this box, it's for robot"
+msgstr "Ne pas cliquer sur cette box, c'est pour les robots"
+
+#: build/form/render.php:15 build/form/render.php:16 src/form/render.php:15
+#: src/form/render.php:16
+msgid "Email"
+msgstr "Votre adresse e-mail"
+
+#: build/form/render.php:4 src/form/render.php:4
+msgid "email_address_exist"
+msgstr "L'adresse e-mail  est déjà présente dans la liste"
+
+#: build/form/render.php:3 src/form/render.php:3
+msgid "email_address_saved"
+msgstr "Votre adresse e-mail a bien été enregistrée."
+
+#: build/form/render.php:5 src/form/render.php:5
+msgid "error_status"
+msgstr "Une erreur est survenue et empêche d’enregistrer votre adresse."
+
+#. Author URI of the plugin
+msgid "https://wp-performance.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Newsletter form plugin connected to Brevo"
+msgstr "Formulaire d'inscription à la newsletter connecté à Brevo"
+
+#. Author of the plugin
+msgid "Patrick Faramaz"
+msgstr ""
+
+#. Name of the plugin
+msgid "PW Newsletter Form"
+msgstr ""
+
+#: build/form/render.php:30 src/form/render.php:30
+msgid "send_email_address"
+msgstr "S'abonner"
