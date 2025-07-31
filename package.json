@@ -1,5 +1,8 @@
 {
   "name": "pw-newsletter-form",
+  "version": "0.0.3",
+  "description": "Block for display newsletter form",
+  "author": "Faramaz Patrick <infos@goodmotion.fr>",
   "scripts": {
     "build": "wp-scripts build --blocks-manifest --webpack-copy-php --experimental-modules",
     "format": "wp-scripts format",

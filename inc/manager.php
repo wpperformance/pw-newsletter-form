@@ -4,11 +4,11 @@ namespace PWNewsletterForm;
 
 class Manager
 {
-  const API_KEY_V3_OPTION_NAME = 'gm_newsletter_form_api_key_v3';
+  const API_KEY_V3_OPTION_NAME = 'pw_newsletter_form_api_key_v3';
 
-  const LIST_NAME = 'gm_newsletter_form_list_name';
+  const LIST_NAME = 'pw_newsletter_form_list_name';
 
-  const SALT = 'gm_newsletter_form_salt';
+  const SALT = 'pw_newsletter_form_salt';
 
   const BIT = 'e77a03f8932c259e45e894a2123df954';
 
