@@ -51,22 +51,22 @@
   border-radius: 5px;
 }
 
-.pw-newsletter-form .pw-newsletter-form-status-hidden {
-  display: none;
-}
-
-.pw-newsletter-form-submit {
+#pw-newsletter-form-submit {
   display: flex;
-  gap: 0.5rem;
+  gap: 0.7rem;
 }
 
-.pw-newsletter-form-submit span.goodmotion-loader {
+#pw-newsletter-form-submit[disabled] {
+  padding-left: 0.5rem;
+}
+
+#pw-newsletter-form-submit span.goodmotion-loader {
   transform: translate(5px, -2px);
   height: 20px;
   width: 24px;
 }
 
-.pw-newsletter-form-submit svg {
+#pw-newsletter-form-submit svg {
   width: 24px;
   height: 24px;
 }

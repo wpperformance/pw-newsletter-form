@@ -5,7 +5,7 @@ namespace PWNewsletterForm;
 /**
  * Plugin Name: PW Newsletter Form
  * Description: Newsletter form plugin connected to Brevo
- * Version: 0.0.3
+ * Version: 0.0.4
  * Tested up to: 6.8
  * Requires PHP: 8.1
  * Author: Patrick Faramaz
