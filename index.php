@@ -11,7 +11,7 @@ namespace PWNewsletterForm;
  * Author: Patrick Faramaz
  * Author URI: https://wp-performance.com
  * Text Domain: pw-newsletter-form
- * GitHub Plugin URI: https://github.com/wp-performance/pw-newsletter-form
+ * GitHub Plugin URI: https://github.com/wpperformance/pw-newsletter-form
  *
  * Copyright 2025 Patrick Faramaz
  *
