@@ -4,7 +4,7 @@
   margin: 0;
 }
 
-#pw-newsletter-form {
+.pw-newsletter-form form {
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -13,24 +13,24 @@
   margin: 0;
 }
 
-#pw-newsletter-form fieldset {
+.pw-newsletter-form fieldset {
   border: none;
   padding: 0;
   margin: 0;
 }
 
-#pw-newsletter-form label {
+.pw-newsletter-form label {
   width: 100%;
 }
 
-#pw-newsletter-form label span,
-#pw-newsletter-form .beer-field {
+.pw-newsletter-form label span,
+.pw-newsletter-form .beer-field {
   position: absolute;
   left: -20000px;
 }
 
-#pw-newsletter-form input[type="email"],
-#pw-newsletter-form input[type="text"] {
+.pw-newsletter-form input[type="email"],
+.pw-newsletter-form input[type="text"] {
   max-width: 250px;
   width: 100%;
   font-style: normal;
@@ -43,7 +43,7 @@
   font-weight: 400;
 }
 
-#pw-newsletter-form .pw-newsletter-form-status {
+.pw-newsletter-form .pw-newsletter-form-status {
   font-size: 13px;
   color: #333;
   background-color: aliceblue;
@@ -51,22 +51,22 @@
   border-radius: 5px;
 }
 
-#pw-newsletter-form .pw-newsletter-form-status-hidden {
+.pw-newsletter-form .pw-newsletter-form-status-hidden {
   display: none;
 }
 
-#pw-newsletter-form-submit {
+.pw-newsletter-form-submit {
   display: flex;
   gap: 0.5rem;
 }
 
-#pw-newsletter-form-submit span.goodmotion-loader {
+.pw-newsletter-form-submit span.goodmotion-loader {
   transform: translate(5px, -2px);
   height: 20px;
   width: 24px;
 }
 
-#pw-newsletter-form-submit svg {
+.pw-newsletter-form-submit svg {
   width: 24px;
   height: 24px;
 }
