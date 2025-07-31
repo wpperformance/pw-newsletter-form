@@ -1,6 +1,6 @@
 {
   "name": "pw-newsletter-form",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Block for display newsletter form",
   "author": "Faramaz Patrick <infos@goodmotion.fr>",
   "scripts": {
